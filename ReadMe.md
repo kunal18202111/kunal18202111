@@ -1,4 +1,4 @@
-# ## 💫 About Me
+# 💫 About Me
 
 I started my career in October 2021, building a strong foundation in Python development, software engineering, and backend systems. Over time, I expanded my expertise into machine learning, computer vision, deep learning, and Generative AI.
 
