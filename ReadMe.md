@@ -1,5 +1,10 @@
-# 💫 About Me:
-I started my career in October 2021 at LG Soft India, where I built my foundation in Python development, software engineering, and backend systems. After that, I worked with organizations including InfoVista, Nutanix, and Trellix, gaining experience in Python, data processing, APIs, and developing reliable software solutions. Gradually, I moved deeper into AI and machine learning, working on computer vision, deep learning, and Generative AI applications. At Trellix, I gained experience in agentic RAG systems, while at Nouveau Labs, I contributed to projects involving Cisco Webex and Exotel. My work has focused on building intelligent applications using technologies such as Python, LangChain, LangGraph, FastAPI, vector databases, and large language models. In the Exotel Retail Copilot project, I worked on a multi-agent workflow involving query routing, retail insights, knowledge retrieval, summarization, and guardrails, along with RAG pipelines using hybrid search and reranking. Over time, my focus has shifted toward building production-ready AI solutions that are accurate, scalable, and efficient. Currently, I’m focused on strengthening my expertise in Generative AI, agentic AI, and multi-agent architectures while applying my engineering skills to solve real-world business problems.<br>
+# ## 💫 About Me
+
+I started my career in October 2021, building a strong foundation in Python development, software engineering, and backend systems. Over time, I expanded my expertise into machine learning, computer vision, deep learning, and Generative AI.
+
+My current focus is on large language models (LLMs), retrieval-augmented generation (RAG), and agentic AI systems. I work with technologies such as Python, LangChain, LangGraph, FastAPI, and vector databases to build intelligent applications and multi-agent workflows.
+
+I enjoy optimizing retrieval pipelines, improving AI response quality, and developing reliable, scalable solutions for real-world business problems. I'm continuously exploring advancements in Generative AI, multi-agent architectures, and production-ready AI systems.<br>
 
 
 ## 🌐 Socials:
